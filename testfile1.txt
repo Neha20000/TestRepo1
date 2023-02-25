@@ -1,2 +1,4 @@
 this is demo file to understand git   dc1
 second line added
+added the lines repo1
+added2 lines rrep1
